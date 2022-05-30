@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Child
+comment0.text=class\ Mother\r\n{\r\n\ \ \ \ void\ show()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ System.out.println("Hello\ World");\r\n\ \ \ \ }\r\n}
+comment1.params=
+comment1.target=void\ show()
+numComments=2
